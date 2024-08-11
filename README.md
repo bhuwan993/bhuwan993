@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @bhuwan993
+- 👋 Hi, I’m Bhuwan Thapa
 - 👀 I’m interested in website development
 - 🌱 I’m currently learning next js for backend 
-- 💞️ I’m looking to collaborate 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 📫 How to reach me tbhuwan839@gmail.com
 
 <!---
 bhuwan993/bhuwan993 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
